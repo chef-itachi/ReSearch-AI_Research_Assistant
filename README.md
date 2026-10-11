@@ -1,6 +1,9 @@
 Enter query: what are diffusion models
+
 Added 708 text document(s) to documents
+
 Stored 25499 chunk(s) in the Chroma vector store
+
 Summary:
 
 Based solely on the retrieved passages, diffusion models are defined as **generative models driven by a stochastic diffusion process** that progressively add noise to data and reverses this process to generate new samples. Key evidence includes:  
