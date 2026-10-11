@@ -1,9 +1,13 @@
-Enter query: what are diffusion models?
+Enter query: Enter query: What is RAG?
+Added 14 text-bearing PDF page(s) to documents
+Added 147 text document(s) to documents
 
-Added 708 text document(s) to documents
-
-Stored 25499 chunk(s) in the Chroma vector store
+Stored 8907 chunk(s) in the Chroma vector store
 
 Summary:
 
-Diffusion models are generative models driven by a diffusion process (Diffusion models and representation learning, p.10). They can be used for tasks such as vision generation (Efficient diffusion models for vision, p.13) and operate within deepgenerative modeling frameworks (The principles of diffusion models, p.22). The passages describe diffusion models as mechanisms that gradually add/remove noise to learn data distributions but do not provide a unified definition. Key limitations include the absence of a comprehensive definition across all passages and the focus on specific applications (e.g., vision), preventing a complete answer to the query.
+RAG (Retrieval-Augmented Generation) is a framework that enhances large language models (LLMs) by integrating retrieval of relevant external knowledge with generation of responses. According to IBM Research (2023), RAG is a systematic approach for applications requiring specific answers. Key components include a retriever, a chunking mechanism, and a generator (as described in Klesel & Wittmann, p. 7). Thesystematic review highlights that RAG has gained significant traction since its introduction, distinguishing it from pure LLMs by enabling applications that leverage external data for accurate, context-specific responses across domains (Systematic Review, p. 2). IBM provides a concise definition emphasizing RAG's role in augmenting information access (IBM Research Blog, 2023).  
+
+Limitations: The passages do not provide a single unified definition but synthesize RAG as a component-based system for knowledge-enhanced responses. Some passages(e.g., diffusion model texts) are irrelevant to RAG and excluded. The summary focuses on consensus across sources without resolving ambiguities in the original descriptions.  
+
+*(Systematic Review of Key RAG Systems, p. 2; IBM Research Blog, 2023; Klesel & Wittmann, p. 7)*
