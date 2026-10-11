@@ -1,5 +1,7 @@
 Enter query: Enter query: What is RAG?
+
 Added 14 text-bearing PDF page(s) to documents
+
 Added 147 text document(s) to documents
 
 Stored 8907 chunk(s) in the Chroma vector store
