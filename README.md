@@ -1,4 +1,4 @@
-Enter query: Enter query: What is RAG?
+Enter query: What is RAG?
 
 Added 14 text-bearing PDF page(s) to documents
 
